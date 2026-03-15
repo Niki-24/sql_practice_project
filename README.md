@@ -7,7 +7,7 @@ A collection of SQL practice queries ranging from beginner to advanced level usi
 - Employees
 - Projects
 --- 
-## SQL Concepts Used
+## SQL Concepts Used For LEVEL1 and LEVEL2
 - Table Joins
 - Aggregations Functions (SUM, MAX, MIN, MIN,AVG,COUNT)
 - Filtering
