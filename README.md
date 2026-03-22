@@ -19,6 +19,6 @@ A collection of SQL practice queries ranging from beginner to advanced level usi
 - SQL Workbench
 
 ## **Author**
- **Nikita Vishwakarma**
+ Nikita Vishwakarma
 --- 
   
