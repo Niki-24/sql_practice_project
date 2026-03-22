@@ -1,6 +1,8 @@
 # SQL Joins Practice – **Business Insights**
 This project demonstrates the use of SQL JOIN operations to analyze **employee**, **department**, and **project data**. The goal is to extract meaningful insights that can support **business decisions related to workforce management, project allocation, and productivity analysis**.
+
 1. **Employee and Department Mapping**
+
 **Objective**:
   Identify which employees belong to which department.
 **Business Insight**:
