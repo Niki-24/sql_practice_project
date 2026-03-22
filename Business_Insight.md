@@ -76,13 +76,13 @@ This project demonstrates the use of SQL JOIN operations to analyze **employee**
      This helps understand team structures for each project. It allows management to monitor collaboration and ensure that projects have the required team members.
 --- 
 10. **Top Contributing Employee**
-
-   **Objective**:
-     Identify the employee who has contributed the most work hours across projects.
-     
-   **Business Insight**:
-   This helps highlight top-performing employees who contribute the most effort to projects. It can support **performance evaluation**, **recognition programs**, and **workload management**.
+    **Objective**:
+    Identify the employee who has contributed the most work hours across projects.
+    
+    **Business Insight**:
+    This helps highlight top-performing employees who contribute the most effort to projects. It can support performance evaluation, recognition programs, and workload management.
 --- 
+
 ## Key Skills Demonstrated
 - SQL Joins (INNER JOIN, LEFT JOIN)
 - Data aggregation using SUM() and COUNT()
